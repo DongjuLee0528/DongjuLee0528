@@ -9,21 +9,20 @@
 - **학교 해커톤** 참가 준비중
 - 라즈베리파이를 활용한 임베디드 프로젝트 학습
 
-## 🌱 현재 학습중
-- **임베디드 시스템** (Raspberry Pi)
-- **Python** (임베디드 프로그래밍)
-- **IoT 프로젝트** 개발
-
 ## 💻 기술 스택
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Frameworks & Tools
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+## 🌱 현재 학습중
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+- **임베디드 시스템** 개발
+- **IoT 프로젝트** 구현
 
 ## 👀 관심 분야
 - 🤖 **인공지능 (AI)**
@@ -38,9 +37,6 @@
 
 ## 📫 연락처
 - 📧 Email: dozoo0528@gmail.com
-
-## ⚡ Fun Fact
-해커톤을 통해 새로운 기술을 배우고 도전하는 것을 좋아합니다! 🚀
 
 ---
 ⭐️ From [DongjuLee0528](https://github.com/DongjuLee0528)
