@@ -7,7 +7,6 @@
 - 대림대 41대 상임대의원
 - LEGO EV3 로보컵 멘토
 
-
 ## 💻 완전히 가능한 기술
 
 ### Languages & Frameworks
@@ -18,9 +17,11 @@
 
 ### Languages & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Systems
@@ -30,9 +31,11 @@
 
 ## 🌱 현재 학습중
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-- **임베디드 시스템** 개발
-- **IoT 프로젝트** 구현
+
+- **임베디드 시스템** 개발  
+- **IoT 프로젝트** 구현  
 
 ## 👀 관심 분야
 - 🤖 **인공지능 (AI)**
